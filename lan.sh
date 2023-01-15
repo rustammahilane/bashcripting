@@ -1,3 +1,8 @@
+<< ETHERNET_SWITCH
+	This shell script toggles ethernet connection ON/OFF.
+	
+ETHERNET_SWITCH
+	
 #! /bin/bash
 
 toggle="sudo ifconfig enp4s0";
